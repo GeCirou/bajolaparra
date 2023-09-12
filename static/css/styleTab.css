@@ -85,3 +85,10 @@ header nav a {
         grid-template-columns: 28rem 28rem;
     }
 }
+
+.nosotros-article2 {
+    grid-template-rows: 8rem;
+}
+.nosotros-article2 h3 {
+    margin-left: 0;
+}
